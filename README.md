@@ -5,7 +5,9 @@ A fun challenge using SQL to solve a made up  murder mystery crime scene. This w
 [Try the challenge](http://mystery.knightlab.com)
 
 ### Contents
-- Queries that I used to get the information I needed at every step, each unveiling more 'truth' to the story.
+- `queries.sql`: scratch work that I used to get the information I needed at every step, each unveiling more 'truth' to the story.
+- I filtered out the name of the culprit at the end so NO SPOILERS here. 
+- I'd recommend giving the challenge a try before scrolling to the bottom of `queries.sql`
 
 ### Acknowlegements
 *All credits go to the creators*: 
