@@ -151,8 +151,8 @@ WHERE gender = 'female'
 	AND car_model = 'Model S'
 	AND fb.date like '201712%'
 /*
-id	name	license_id	address_number	address_street_name	ssn	id	age	height	eye_color	hair_color	gender	plate_number	car_make	car_model	ssn	annual_income	person_id	event_id	event_name	date
-99716	Miranda Priestly	202298	1883	Golden Ave	987756388	202298	68	66	green	red	female	500123	Tesla	Model S	987756388	310000	99716	1143	SQL Symphony Concert	20171206
-99716	Miranda Priestly	202298	1883	Golden Ave	987756388	202298	68	66	green	red	female	500123	Tesla	Model S	987756388	310000	99716	1143	SQL Symphony Concert	20171212
-99716	Miranda Priestly	202298	1883	Golden Ave	987756388	202298	68	66	green	red	female	500123	Tesla	Model S	987756388	310000	99716	1143	SQL Symphony Concert	20171229
+id	 	name	license_id	address_number	address_street_name	ssn	id	age	height	eye_color	hair_color	gender	plate_number	car_make	car_model	ssn	annual_income	person_id	event_id	event_name	date
+99716	--- --- 	202298	1883	Golden Ave	987756388	202298	68	66	green	red	female	500123	Tesla	Model S	987756388	310000	99716	1143	SQL Symphony Concert	20171206
+99716	--- --- 	202298	1883	Golden Ave	987756388	202298	68	66	green	red	female	500123	Tesla	Model S	987756388	310000	99716	1143	SQL Symphony Concert	20171212
+99716	--- --- 	202298	1883	Golden Ave	987756388	202298	68	66	green	red	female	500123	Tesla	Model S	987756388	310000	99716	1143	SQL Symphony Concert	20171229
 */
