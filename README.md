@@ -1,7 +1,7 @@
 # SQL Murder Mystery Challenge
 A fun challenge using SQL to solve a made up  murder mystery crime scene. This was a fun way to practice using SQL to get to the bottom of the case using a variety of querying methods. I highly recommend this to anyone learning SQL or just looking for a challenge!
 
-## SQL
+## Try it yourself
 [Try the challenge](http://mystery.knightlab.com)
 
 ### Contents
@@ -9,6 +9,7 @@ A fun challenge using SQL to solve a made up  murder mystery crime scene. This w
 
 ### Acknowlegements
 *All credits go to the creators*: 
+
 The SQL Murder Mystery was created by Joon Park and Cathy He while they were Knight Lab fellows. See the GitHub repository for more information.
 
 Adapted and produced for the web by Joe Germuska.
